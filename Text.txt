@@ -1,0 +1,1 @@
+This is for the coursework on the use of SQL for Data Analytics
