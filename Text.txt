@@ -1,1 +1,1 @@
-This is for the coursework on the use of SQL for Data Analytics
+This is for the coursework on the use of SQL for Data Analytics. The course is part of Data Analytics Degree
